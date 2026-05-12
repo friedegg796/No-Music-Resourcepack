@@ -1,8 +1,7 @@
 # No Music Resourcepack
 
-Removes the Background Music, the Record Music, and the Challenge Completed sound from Minecraft. Useful for if you are running a server and want to mute the music.
+Removes the Background Music, the Record Music, Noteblock sounds, Omen sounds, Raid Horn sounds and the Challenge Completed sound from Minecraft. Useful for if you are running a server and want to mute the music.
 
-Sadly doesn't mute Note Blocks yet.
 
 Really light pack, shouldn't be too hard to install, there isn't even a pack.png.
 
@@ -14,6 +13,8 @@ Make an [issue](https://github.com/friedegg796/No-Music-Resourcepack/issues), I'
 
 ### Could I put your Resourcepack into MY modpack?
 Read the [License](https://github.com/friedegg796/No-Music-Resourcepack?tab=License-1-ov-file)
+
+Modrinth users please read the Modrinth TOS
 
 ### How do I install this...
 
