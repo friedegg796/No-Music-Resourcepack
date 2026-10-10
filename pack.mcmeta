@@ -1,11 +1,13 @@
 {
     "pack": {
         "pack_format": 1,
+            "min_format": 1,
+            "max_format": 100.0,
         "description": "SHH MINECRAFT, I DON'T WANT MUSIC!",
         "supported_formats":
         {
          "min_inclusive": 1,
-         "max_inclusive": 88
+         "max_inclusive": 100.0
         }
     }
 }
