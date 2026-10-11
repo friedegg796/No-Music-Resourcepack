@@ -64,6 +64,9 @@
 "item.minecraft.music_disc_ward": "Nothing Disc",
 "item.minecraft.music_disc_ward.desc": "Silence",
 "jukebox_song.minecraft.ward": "Silence",
+"item.minecraft.music_disc_bounce": "Nothing Disc",
+"item.minecraft.music_disc_bounce.desc": "Silence",
+"jukebox_song.minecraft.bounce": "Silence",
 
 "advancements.adventure.play_jukebox_in_meadows.description": "There is nothing.",
 "advancements.adventure.play_jukebox_in_meadows.title": "Silence"
